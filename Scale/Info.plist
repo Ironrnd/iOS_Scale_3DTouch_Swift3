@@ -41,5 +41,14 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>UIApplicationShortcutItems</key>
+	<array>
+		<dict>
+			<key>UIApplicationSgortcutitemType</key>
+			<string>ru.proSwift.Scale.ShortcutitemType</string>
+			<key>UIApplicationShortcutItemTitle</key>
+			<string>Открыть в синих цветах</string>
+		</dict>
+	</array>
 </dict>
 </plist>
